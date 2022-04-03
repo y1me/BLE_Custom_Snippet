@@ -1,0 +1,3 @@
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_stm.c:130:30:Custom_STM_Event_Handler	72	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_stm.c:359:6:SVCCTL_InitCustomSvc	48	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_stm.c:488:12:Custom_STM_App_Update_Char	32	static

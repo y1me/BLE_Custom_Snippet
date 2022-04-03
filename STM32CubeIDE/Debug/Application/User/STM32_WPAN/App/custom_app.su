@@ -1,0 +1,5 @@
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_app.c:99:6:Custom_STM_App_Notification	16	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_app.c:215:6:Custom_APP_Notification	16	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_app.c:252:6:Custom_APP_Init	16	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_app.c:278:6:Custom_Hrs_m_Update_Char	8	static
+/home/blobby/STM32CubeIDE/workspace_1.6.0/BLE_Custom/STM32_WPAN/App/custom_app.c:287:6:Custom_Hrs_m_Send_Notification	8	static
